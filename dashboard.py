@@ -1,6 +1,9 @@
 import pandas as pd
 from dash import Dash, dcc, html
 
+#run: python .\dashboard.py
+#fetch
+
 # data = (
 #     pd.read_csv("avocado.csv")
 #     .query("type == 'conventional' and region == 'Albany'")
